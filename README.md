@@ -1,8 +1,27 @@
-# week1 
-# Project Overview
+# Week 1 – Website Components & Database Basics
 
-This repository contains weekly tasks focused on understanding website structure and layout patterns.
+This repository contains my Week 1 tasks for learning basic web concepts.
 
-## Week 1
-- Task 1: Website Components Analysis
-  - Documented common UI components across 7 websites
+## Contents
+
+### Task 1: Website Components Analysis
+- Studied common website components
+- Compared different website types
+- Observed layout patterns
+
+File:
+- `docs/week1/website-analysis.md`
+
+### Task 2: Database Basics
+- Learned what databases, tables, records, and fields are
+- Designed a simple blog posts table
+
+File:
+- `docs/week1/database-basics.md`
+
+## Tools Used
+- GitHub
+- VS Code
+
+## Author
+Sneha Wilson
