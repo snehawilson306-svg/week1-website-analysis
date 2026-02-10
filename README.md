@@ -1,4 +1,4 @@
-# week1-website-analysis
+# week1 
 # Project Overview
 
 This repository contains weekly tasks focused on understanding website structure and layout patterns.
