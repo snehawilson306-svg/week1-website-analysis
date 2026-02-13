@@ -23,5 +23,34 @@ File:
 - GitHub
 - VS Code
 
-## Author
-Sneha Wilson
+### Task 3: Website Layout Diagrams
+
+For this task, I created three different website layout diagrams to understand common layout structures used in web design.
+
+1. Single-Column Layout
+
+In this layout, all sections (Header, Navigation, Content, Footer) are arranged vertically in one column.
+This layout is commonly used for mobile devices because it improves readability and scrolling experience.
+
+2. Two-Column Layout
+
+In this layout, the header and footer remain full width, while the middle section is divided into two parts:
+
+Sidebar (for additional links or information)
+
+Main Content (for primary information)
+
+This layout is commonly used on desktop websites.
+
+3. Three-Column Layout
+
+In this layout, the header and footer remain the same, while the middle section is divided into:
+
+Left Sidebar
+
+Main Content
+
+Right Sidebar
+
+The main content area is wider than the sidebars because it contains the most important information.
+
